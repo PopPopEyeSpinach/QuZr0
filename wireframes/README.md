@@ -46,4 +46,4 @@ To establish a clear, version‑controlled foundation for:
 ---
 
 ## 🔹 Author
-Designed and architected by **Rozie**, Founder of Vitairium, QuanZr0, and Axtira Systems.
+Designed and Architected as Founder by **Rozie**,
