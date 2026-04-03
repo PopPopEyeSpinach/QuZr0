@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="Cinematic Cyber-Ops " src="https://github.com/user-attachments/assets/9dffec93-0a81-4781-8dbe-63873a024a56" />
 # QuanZr0 — Wireframes & Early Product Architecture
 
 QuanZr0 is a next‑generation logistics‑tech ecosystem designed to merge 
